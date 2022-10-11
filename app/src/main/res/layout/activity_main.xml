@@ -41,13 +41,13 @@
 
     <TextView
         android:id="@+id/employeeData"
-        android:layout_width="wrap_content"
+        android:layout_width="360dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
-        android:ems="20"
+        android:ems="12"
         android:fontFamily="sans-serif"
         android:text="[ Employee Data Displayed Here ]"
         android:textColor="@color/black"
-        android:textSize="24sp" />
+        android:textSize="20sp" />
 
 </LinearLayout>
